@@ -1,6 +1,6 @@
 🚀 Apresentação do Meu Perfil Tech
 
-Olá! 👋 Sou Douglas Fonseca, analista focado em negócios, dados, BI e automação, sempre buscando transformar informações em insights estratégicos para apoiar a tomada de decisão.
+Olá! 👋 Sou Douglas Santana, analista focado em negócios, dados, BI e automação, sempre buscando transformar informações em insights estratégicos para apoiar a tomada de decisão.
 
 💻 Tecnologias e Ferramentas que Utilizo
 
